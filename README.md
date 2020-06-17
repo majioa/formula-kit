@@ -1,6 +1,5 @@
-formula.lib
-===
-License: The MIT License (MIT)
+# formula.lib
 
 Sample formula kit library written in C++ Builder for Win32
 
+License: The MIT License **(MIT)**
